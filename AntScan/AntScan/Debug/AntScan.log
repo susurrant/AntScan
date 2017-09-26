@@ -1,0 +1,5 @@
+﻿  AntScanMain.cpp
+  AntScan.cpp
+f:\programming\visual studio 2013\projects\antscan\antscan\antscan.cpp(6): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned long', possible loss of data
+  Generating Code...
+  AntScan.vcxproj -> F:\Programming\Visual Studio 2013\Projects\AntScan\Debug\AntScan.exe

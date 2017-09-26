@@ -1,0 +1,3 @@
+﻿  AntScanMain.cpp
+f:\programming\visual studio 2013\projects\antscan(mpi)\antscan(mpi)\antscanmain.cpp(327): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned long', possible loss of data
+  AntScan(MPI).vcxproj -> F:\Programming\Visual Studio 2013\Projects\AntScan(MPI)\Debug\AntScan(MPI).exe
